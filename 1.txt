@@ -6,3 +6,7 @@ aa
 }
 aa
 
+
+
+function a(){}
+
