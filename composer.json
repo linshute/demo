@@ -1,6 +1,7 @@
 {
     "name": "anloss/push",
     "description": "Third party message push",
+    "version":"1.0",
     "authors": [
         {
             "name": "Yanlong Ma"
