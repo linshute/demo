@@ -1,7 +1,7 @@
 {
     "name": "anloss/pusfh",
     "description": "Third party message push",
-    "version":"1.3",
+    "version":"1.4",
     "authors": [
         {
             "name": "linshute"
