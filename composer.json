@@ -4,7 +4,7 @@
     "version":"1.1",
     "authors": [
         {
-            "name": "Yanlong Ma"
+            "name": "linshute"
         }
     ],
     "license": "MIT",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "YanlongMa\\Push\\": "src/"
+            "anloss": "src/"
         }
     }
 }
